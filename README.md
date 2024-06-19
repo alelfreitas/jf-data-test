@@ -5,10 +5,10 @@
 1.	Infraestrutura
     - Utilize uma VM Linux configurada no VirtualBox.
     - Configure os seguintes containers utilizando Docker:
-    - SQL Server
-    - MongoDB
-    - PySpark
-    - Airflow
+        - SQL Server
+        - MongoDB
+        - PySpark
+        - Airflow
 2.	Dataset
     - Baixe o dataset sobre o  conjunto de dados públicos de comércio eletrônico brasileiro
 no Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). 
